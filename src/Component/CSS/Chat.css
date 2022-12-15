@@ -33,6 +33,7 @@
     background-image: url(./8c98994518b575bfd8c949e91d20548b.jpg);
     padding: 25px;
     overflow-y: auto;
+    
 
  }
  .chat__body .chat__message{
@@ -47,6 +48,7 @@
  }
  .chat__name{
     position: absolute;
+    width: 200px;
     top: -15px;
     left: 5px;
     font-size: 10px;
